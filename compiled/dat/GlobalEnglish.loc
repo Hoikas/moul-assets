@@ -215,16 +215,6 @@ Celia Pearce
 Some sounds and vocal recording provided by the Friends of Sironka Dance Troupe
 non-exclusively licensed by Cyan, used by permission.
 
-&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;AGEIA -- provider of the PhysX physics engine
-AGEIA and PhysX are trademarks of AGEIA Technologies, Inc. and are used under license.”
-
-&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;"Burn you up, Burn you down"
-Performed by Peter Gabriel
-Written by Peter Gabriel, Neil Sparkes and Karl Wallinger
-Published by Real World Music Limited/Universal Music Limited
-Peter Gabriel appears courtesy of Real World Records'/Geffen Records and EMI Records Executive Director
-&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Bink
-Uses Bink Video. Copyright (C) 1997-2003 by RAD Game Tools, Inc.
 &lt;font spacing=-18&gt;
 &lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;FaceGen Modeller 2.1
 Singular Inversions, Inc.
@@ -232,34 +222,90 @@ Singular Inversions, Inc.
 &lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Artbeats Digital Film Library
 Artbeats
 
-&lt;img align=center resize=no blend=alpha src="xUruCreditsLegalLogos*1#0.hsm"&gt;
-
 &lt;pb&gt;&lt;font size=26&gt;&lt;p align=center&gt;Open Source Licenses&lt;font spacing=-5&gt;
 &lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Asio
+Copyright (c) 2003-2021 Christopher M. Kohlhoff
+https://think-async.com/Asio
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;EXPAT
+Copyright (c) 1998-2000 Thai Open Source Software Center Ltd and Clark Cooper
+Copyright (c) 2001-2019 Expat maintainers
+https://github.com/libexpat/libexpat
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;libcurl
+Copyright (c) 1996 - 2021, Daniel Stenberg
+https://curl.se
+
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;libjpeg-turbo
+This software is based in part on the work of the Independent JPEG Group.
+Copyright (C)2009-2021 D. R. Commander. All Rights Reserved.
+Copyright (C)2015 Viktor Szathmáry. All Rights Reserved.
+https://libjpeg-turbo.org
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;libpng
+Copyright (c) 1995-2019 The PNG Reference Library Authors.
+Copyright (c) 2018-2019 Cosmin Truta.
+Copyright (c) 2000-2002, 2004, 2006-2018 Glenn Randers-Pehrson.
+Copyright (c) 1996-1997 Andreas Dilger.
+Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
+http://www.libpng.org/pub/png/libpng.html
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;libvpx
+Copyright (c) 2010, The WebM Project authors. All rights reserved.
+https://www.webmproject.org
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;NVIDIA PhysX
+Copyright (c) 2021 NVIDIA Corporation. All rights reserved.
+https://github.com/NVIDIAGameWorks/PhysX
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Ogg Vorbis
+Copyright (c) 2002, Xiph.Org Foundation
+https://xiph.org/vorbis
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;openal-soft
+https://github.com/kcat/openal-soft
+
+&lt;font spacing=-18&gt;
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Opus
+Copyright 2001-2011 Xiph.Org, Skype Limited, Octasic, Jean-Marc Valin, Timothy B. Terriberry, CSIRO, Gregory Maxwell, Mark Borgerding,Erik de Castro Lopo
+https://www.opus-codec.org
+
+&lt;font spacing=-18&gt;
 &lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;OpenSSL
-Copyright (c) 2000 The Apache Software Foundation. All rights reserved.
-&lt;font spacing=-18&gt;
-&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Free Type
-The FreeType Project is copyright (c) 1996-2000 by David Turner, Robert Wilhelm, and Werner Lemberg. All rights reserved.
-&lt;font spacing=-18&gt;
+Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved.
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)
+This product includes cryptographic software written by Eric Young (eay@cryptsoft.com).
+This product includes software written by Tim  Hudson (tjh@cryptsoft.com).
+
+&lt;pb&gt;&lt;font spacing=-18&gt;
 &lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Python
-Copyright (c) 2001, 2002 Python Software Foundation. All rights reserved.
-&lt;font spacing=-18&gt;
-&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Boost
-Copyright (c) 2002 CrystalClear Software, inc. Permission to use, copy, modify, distribute and sell this software for any purpose is hereby granted without fee.
-&lt;font spacing=-18&gt;
-&lt;pb&gt;&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;OggVorbis
-Copyright (c) 2003, Xiph.Org Foundation
+Copyright (c) 2021 Python Software Foundation. All rights reserved.
+https://www.python.org
+
 &lt;font spacing=-18&gt;
 &lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;Speex
 Copyright (c) 2002-2003, Jean-Marc Vlin/Xiph.Org Foundation
+https://www.speex.org
+
 &lt;font spacing=-18&gt;
-&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;LibJpeg
-Libpng versions 1.0.7, July 1, 2000, through 1.2.5, October 3, 2002, are Copyright (c) 2000-2002
-Glenn Randers-Pehrson
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;string-theory
+Copyright (c) 2016 Michael Hansen
+https://github.com/zrax/string_theory
+
 &lt;font spacing=-18&gt;
-&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;zLib
-zlib (c) 1995-2002 Jean-loup Gailly and Mark Adler</translation>
+&lt;font size=24 spacing=-10&gt;&lt;p align=center&gt;zlib
+zlib (c) 1995-2017 Jean-loup Gailly and Mark Adler
+https://zlib.net</translation>
 			</element>
 		</set>
 		<set name="TextObjects">
