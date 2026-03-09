@@ -262,7 +262,11 @@
     "xYeeshaPageAlphaSketchBirds.png",
     "xLinkPanelConcertHallFoyer.png",
     "xBookSharePage512.jpg",
-    "xBahroYeeshaShare.jpg",
+    {
+      "name": "xbahroyeeshashare*1#0.hsm",
+      "color": "xBahroYeeshaShare.jpg",
+      "alpha": "xBahroYeeshaShareAlpha.jpg"
+    },
     {
       "name": "xlinkpanelcleftdesertdisabled*1#0.hsm",
       "color": "xLinkPanelCleftDesertDisabled.jpg",
