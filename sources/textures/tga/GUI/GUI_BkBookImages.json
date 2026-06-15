@@ -352,14 +352,14 @@
       "color": "xNegilahnInfoJournalCover.tga"
     },
     {
-      "color": "xBookmarkDniZero.tga",
-      "$comment": "This matches what was previously in the PRP. NPOT is 'fine' here because this isn't a texture.",
-      "resize": [150, 134]
+      "name": "xbookmarkdnizero*1#0.hsm",
+      "color": "xBookmarkDniZero.jpg",
+      "alpha": "xBookmarkDniZeroAlpha.jpg"
     },
     {
-      "color": "xBookmarkDniZero2.tga",
-      "$comment": "This matches what was previously in the PRP. NPOT is 'fine' here because this isn't a texture.",
-      "resize": [134, 134]
+      "name": "xbookmarkdnizero2*1#0.hsm",
+      "color": "xBookmarkDniZero2.jpg",
+      "alpha": "xBookmarkDniZero2Alpha.jpg"
     },
     "xBookShareSymbolOnly.jpg",
     "xLinkPanelChisoPreniv.png",
