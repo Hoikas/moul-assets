@@ -38,7 +38,11 @@
       "color": "xLinkPanelBevinDefault.jpg",
       "alpha": "xLinkPanelAlpha.png"
     },
-    "xLinkPanelBlackVoid.tga",
+    {
+      "name": "xlinkpanelblackvoid*1#0.hsm",
+      "color": "xLinkPanelBlackVoid.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     {
       "name": "xlinkpanelcleftdesert*1#0.hsm",
       "color": "xLinkPanelCleftDesert.jpg",
@@ -239,7 +243,11 @@
     "xYeeshaPageAlphaSketchLeaf.png",
     "xYeeshaPageAlphaSketchLushRelto.png",
     "xYeeshaPageAlphaSketchStorm.png",
-    "xLinkPanelAhnonayTemple.tga",
+    {
+      "name": "xlinkpanelahnnonaytemple*1#0.hsm",
+      "color": "xLinkPanelAhnonayTemple.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     {
       "name": "xlinkpanelercanadefault*1#0.hsm",
       "color": "xLinkPanelErcanaDefault.jpg",
@@ -260,7 +268,11 @@
     "xMeemenStoryJournalCover_eng.tga",
     "xMeertaStoryJournalCover_eng.tga",
     "xYeeshaPageAlphaSketchBirds.png",
-    "xLinkPanelConcertHallFoyer.png",
+    {
+      "name": "xlinkpanelconcerthallfoyer*1#0.hsm",
+      "color": "xLinkPanelConcertHallFoyer.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     "xBookSharePage512.jpg",
     {
       "name": "xbahroyeeshashare*1#0.hsm",
