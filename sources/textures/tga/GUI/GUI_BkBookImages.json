@@ -201,7 +201,11 @@
     "xDniNINE.tga",
     "xDniTEN.tga",
     "xKIJournalCover.tga",
-    "xUruCreditsLegalLogos.jpg",
+    {
+      "name": "xurucreditslegallogos*1#0.hsm",
+      "color": "xUruCreditsLegalLogos.jpg",
+      "alpha": "xUruCreditsLegalLogosAlpha.jpg"
+    },
     "xSharperJournalCover.tga",
     "xKingAileshJournalCover_eng.tga",
     "xKingNaygenJournalCover_eng.tga",
@@ -284,14 +288,22 @@
       "color": "xLinkPanelCleftDesertDisabled.jpg",
       "alpha": "xLinkPanelAlpha.png"
     },
-    "xLinkPanelGrtZero.tga",
+    {
+      "name": "xlinkpanelgrtzero*1#0.hsm",
+      "color": "xLinkPanelGrtZero.jpg",
+      "alpha": "xLinkPanelAlpha.png"
+    },
     {
       "name": "xlinkpanelgrtzerolinkrm*1#0.hsm",
       "color": "xLinkPanelGrtZeroLinkRm.jpg",
       "alpha": "xLinkPanelAlpha.png"
     },
     "xYeeshaPageAlphaSketchCalendar.png",
-    "xYeeshaBookStampVsquish.png",
+    {
+      "name": "xyeeshabookstampvsquish*1#0.hsm",
+      "color": "xYeeshaBookStampVsquish.png",
+      "alpha": "xYeeshaBookStampVsquishAlpha.jpg"
+    },
     {
       "name": "xbooksharepage512vsquish*1#0.hsm",
       "color": "xBookSharePage512vsquish.jpg",
